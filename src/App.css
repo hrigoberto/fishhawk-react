@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  float: left;
+}
+
+.App-header {
+  background-color: #4A826A;
+  height: 5vh;
+  padding: 10px;
+  color: #3a5449;
+  font-family: papyrus, fantasy;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
